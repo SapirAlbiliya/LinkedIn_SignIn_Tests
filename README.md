@@ -33,13 +33,13 @@ This project is an embodiment of skills and efforts to automate web testing scen
 1. Clone the repository:
 
    ```bash
-   git clone [repository_url]
+   git clone [https://github.com/SapirAlbiliya/LinkedIn_SignIn_Tests.git]
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd path/to/directory
+   cd <current_path>/LinkedIn_SignIn_Tests
    ```
 
 3. Install the required packages:
@@ -55,7 +55,7 @@ This project is an embodiment of skills and efforts to automate web testing scen
 To run the tests, simply execute:
 
 ```bash
-python tests.py
+python3 tests.py
 ```
 
 ## Reporting
