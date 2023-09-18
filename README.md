@@ -33,7 +33,7 @@ This project is an embodiment of skills and efforts to automate web testing scen
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/SapirAlbiliya/LinkedIn_SignIn_Tests.git]
+   git clone https://github.com/SapirAlbiliya/LinkedIn_SignIn_Tests.git
    ```
 
 2. Navigate to the project directory:
